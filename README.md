@@ -1,6 +1,6 @@
 # Satisfying Ball - A Relaxing Bouncing Ball Simulation 🧘‍♀️
 
-# TEST REPO!
+# TEST REPO! btw, this repo is fully made by ai, I created ai from scratch and trained it. this model was able to make a simple game in 2 weeks + it made a commit to the repo lol.
 ![header](https://steamuserimages-a.akamaihd.net/ugc/930428699254564693/FFA99C866B4EA6BC93D1B9664083DEB6BA1E3386/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
 
 Welcome to **Satisfying Ball** - a simple yet captivating game designed to help you relax and relieve stress. In this game, a ball bounces inside a circle, and you can customize various parameters and game modes. Ideal for relaxation, meditation, or just passing the time. The game doesn't require significant computing resources and runs smoothly on most computers. Developed using PyCharm 💻, we recommend using this environment for the most comfortable experience. However, the game should also run in other development environments like VS Code or the terminal, although some nuances may arise.
